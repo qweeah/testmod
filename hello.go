@@ -3,5 +3,5 @@ package testmod
 import "fmt"
 
 func Hello() {
-	fmt.Println("Hello world v1")
+	fmt.Println("Hello world v2")
 }
